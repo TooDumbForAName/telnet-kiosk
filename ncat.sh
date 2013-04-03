@@ -1,0 +1,1 @@
+ncat -tkl -w 30 -p 1025 -e test.sh 2>/dev/null
